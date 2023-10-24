@@ -28,7 +28,7 @@ k. pickle
 There are three folders:
 1) App: It contains templates and run.py file which uses Flask app to run web application.
 2) Data:It contains csv files,database file and process_data.py file containing ETL pipeline.
-3) Models:It has train_classifier.py file containing ML pipeline and pickle file.
+3) Models:It has train_classifier.py file containing ML pipeline.
 There are ETL and ML ipynb files used in the Udacity project workspace.
 There is README file which describes the libraries used, the files in repository,the instructions followed to carry out the project and summary(analysis) of the project.
 
